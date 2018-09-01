@@ -1,2 +1,2 @@
 # Discord-Bot
-Basic Bot of delivering features on github.
+Basic Bot which is going to work on my own space.
